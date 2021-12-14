@@ -9,6 +9,3 @@ Z - Delete last particle (like an undo button)
 R - Sets all particles' velocities to zero, simulation keeps going after (this is a fun one to spam)
 G - Turn on/off gravity (simple overall gravitational field, not gravity between objects)
 S -  Turn on/off locked charge dropping. Locked charges do not move, and are denoted by orange for positive, purple for negative. You still must click to drop the charge, and press S again to go back to dropping moveable charges.
-
-When you download the .exe file off the shared google drive folder your PC will probably tweak out and think it is a virus (this is because most random .exe files on the internet are). I promise you this is not a virus, just skip past that part.
-Have Fun!
