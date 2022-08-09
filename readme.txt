@@ -1,4 +1,4 @@
-This is the charged particle simulator I've been writing over the past two weeks, finished to the point of satisfaction. I've included the .exe file if you just want to run it, and the source code if you want to tweak it to your liking. It will automatically start with two oppositely charge particles in a binary orbit. 
+It will automatically start with two oppositely charge particles in a binary orbit. 
 
 Controls:
 Left Click - Drop positive charge (Red)
